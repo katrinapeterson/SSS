@@ -1,0 +1,10 @@
+#title {
+  color: green;
+}
+
+
+.newsText {
+  float: right;
+  margin-left: 1em;
+  margin-right: 1em;
+}
